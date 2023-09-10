@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">accessibilityservicetest</string>
+    <string name="service_description">无障碍实现自动上划demo</string>
+</resources>
