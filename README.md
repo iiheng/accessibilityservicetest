@@ -4,7 +4,7 @@
 
 ## 演示效果
 
-<img src="https://fastly.jsdelivr.net/gh/iiheng/TuChuang@main/1694324002477207FF27641418F61D42726363C6C1B00.gif" alt="" style="zoom:30%;" />
+<img src="https://fastly.jsdelivr.net/gh/iiheng/TuChuang@main/1694324002477207FF27641418F61D42726363C6C1B00.gif" alt="" style="zoom:20%;" />
 
 ## 代码结构
 
